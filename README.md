@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="conifer_v1.png" width="250" alt="conifer">
 
 Conifer translates trained Boosted Decision Trees to FPGA firmware for extreme low latency inference. Check the examples directory for examples to get started with.
@@ -14,3 +15,7 @@ git clone https://github.com/thesps/conifer.git
 cd conifer
 pip install .
 ```
+=======
+# hls4ml-conifer
+Cloned from https://github.com/thesps/conifer.git
+>>>>>>> 456412c2524217b4ad32a6da072c48bc8d7d404d
